@@ -4,7 +4,9 @@ manually running commands and navigating through menus every time.
 While it might be a small tool, I hope it brings a bit of convenience to your dailyroutine.
 The source code is provided so you can modify and adapt it to your needs.
 If you do modify or redistribute it keeping a credit to the original author would be greatly appreciated.
+
 Thank you.
+
 Contact: seodam147@gmail.com
 
 License
