@@ -21,4 +21,5 @@
     Licensed under the **MIT License**. (Free to use, modify, and distribute with credit).
     THE SOFTWARE IS PROVIDED 'AS IS', WITHOUT WARRANTY OF ANY KIND.
 
-    <img width="487" height="557" alt="ko-seodam" src="https://github.com/user-attachments/assets/6d8e658b-ef41-4b0a-8d9e-7a140f4ee2eb" />
+<img width="487" height="557" alt="ko-seodam" src="https://github.com/user-attachments/assets/9506f431-e9ea-4a90-b780-80e05f39f82f" />
+
