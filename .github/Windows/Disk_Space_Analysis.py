@@ -865,7 +865,7 @@ class DiskInspectorApp(tk.Tk):
     def _create_context_menu(self):
         self.context_menu = tk.Menu(self, tearoff=0)
         self.context_menu.add_command(label="Open in Explorer", command=self._menu_open_in_explorer)
-        self.context_menu.add_command(label="Delete Selected Item", command=self._menu_delete_selected)
+        #self.context_menu.add_command(label="Delete Selected Item", command=self._menu_delete_selected)
 
     def _bind_context_menu(self, tree):
         tree.bind("<Button-3>", lambda e: self._on_right_click(e, tree))
